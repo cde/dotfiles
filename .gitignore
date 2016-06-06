@@ -1,0 +1,5 @@
+# https://help.github.com/articles/ignoring-files for more about ignoring files.
+#
+# OS or Editor files
+._*
+.DS_Store
